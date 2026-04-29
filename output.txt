@@ -1,0 +1,149 @@
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+1
+enter item to insert: 10
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+1
+enter item to insert: 20
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+1
+enter item to insert: 50
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+4
+displayAll():
+____________Tree of 3 items________________
+10 20 50 
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+3
+The height of the tree is: 2
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+2
+enter item to find:
+10
+10 is found in the tree!
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+2
+enter item to find:
+40
+Sorry... 40 is NOT found in the tree!
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+6
+Maximum value: 50
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+7
+Minimum value: 10
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+8
+Tree size: 3
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+6: get maximum value
+7: get minimum value
+8: tree size
+9: exit
+9
+Goodbye!!
